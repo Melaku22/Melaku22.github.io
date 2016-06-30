@@ -1,0 +1,97 @@
+/*style layouts*/
+
+.container {
+	margin: auto;
+}
+
+.header {
+	background: url('http://i.imgur.com/OcJC4Nz.jpg');
+	background-color: #99ccff;
+	background-size: cover;
+	padding: 25px 0;
+}
+
+.background {
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 10px 0px;
+}
+
+.name {
+	margin: 2px;
+	font-family: sans-serif;
+	font-size: 50px;
+	text-align: center;
+	color: #12124e;
+}
+	
+.title {
+	margin: 2px;
+	font-weight: bold;
+	text-align: center;
+	font-size: 20px;
+	color: #006781;
+}
+
+.iMelaku {
+	min-width: 100px;
+	border: 7px solid rgba(255, 255, 255, 0.6);
+	border-radius: 20px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 15px
+}
+
+.picture {
+	display: block;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.subtext {
+	margin: 2px;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: #006781; 
+	text-align: center;
+}
+
+.center {
+	text-align: center;
+}
+
+.gallery {
+	padding: 10px;
+}
+
+.footer {
+	background-color: #a266ff;
+	text-align: center;
+	margin: 50px;
+	padding: 15px;
+
+}
+
+h4 {
+	text-align: center;
+	color: #0093b8;
+}
+
+h3 {
+	color: #1f1f7a;
+	opacity: 0.8;
+	text-align: center;
+}
+
+ul {
+	background-color: rgba(0, 0, 0, 0.5);
+	margin: 20px 0px 20px 0px;
+	text-align: center;
+}
+
+li {
+	display: inline;
+	padding: 0px 20px;
+	color: white; 
+}
